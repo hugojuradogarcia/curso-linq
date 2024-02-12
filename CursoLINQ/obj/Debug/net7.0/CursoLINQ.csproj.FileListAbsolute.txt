@@ -1,0 +1,14 @@
+/Users/hugojuradogarcia/Documents/Work/projects/C#/CursoLINQ/CursoLINQ/bin/Debug/net7.0/CursoLINQ
+/Users/hugojuradogarcia/Documents/Work/projects/C#/CursoLINQ/CursoLINQ/bin/Debug/net7.0/CursoLINQ.deps.json
+/Users/hugojuradogarcia/Documents/Work/projects/C#/CursoLINQ/CursoLINQ/bin/Debug/net7.0/CursoLINQ.runtimeconfig.json
+/Users/hugojuradogarcia/Documents/Work/projects/C#/CursoLINQ/CursoLINQ/bin/Debug/net7.0/CursoLINQ.dll
+/Users/hugojuradogarcia/Documents/Work/projects/C#/CursoLINQ/CursoLINQ/bin/Debug/net7.0/CursoLINQ.pdb
+/Users/hugojuradogarcia/Documents/Work/projects/C#/CursoLINQ/CursoLINQ/obj/Debug/net7.0/CursoLINQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugojuradogarcia/Documents/Work/projects/C#/CursoLINQ/CursoLINQ/obj/Debug/net7.0/CursoLINQ.AssemblyInfoInputs.cache
+/Users/hugojuradogarcia/Documents/Work/projects/C#/CursoLINQ/CursoLINQ/obj/Debug/net7.0/CursoLINQ.AssemblyInfo.cs
+/Users/hugojuradogarcia/Documents/Work/projects/C#/CursoLINQ/CursoLINQ/obj/Debug/net7.0/CursoLINQ.csproj.CoreCompileInputs.cache
+/Users/hugojuradogarcia/Documents/Work/projects/C#/CursoLINQ/CursoLINQ/obj/Debug/net7.0/CursoLINQ.dll
+/Users/hugojuradogarcia/Documents/Work/projects/C#/CursoLINQ/CursoLINQ/obj/Debug/net7.0/refint/CursoLINQ.dll
+/Users/hugojuradogarcia/Documents/Work/projects/C#/CursoLINQ/CursoLINQ/obj/Debug/net7.0/CursoLINQ.pdb
+/Users/hugojuradogarcia/Documents/Work/projects/C#/CursoLINQ/CursoLINQ/obj/Debug/net7.0/CursoLINQ.genruntimeconfig.cache
+/Users/hugojuradogarcia/Documents/Work/projects/C#/CursoLINQ/CursoLINQ/obj/Debug/net7.0/ref/CursoLINQ.dll
